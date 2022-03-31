@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://centralkypressurewashing.com/sitemap.xml
